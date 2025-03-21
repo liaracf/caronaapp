@@ -12,7 +12,7 @@ const driver = () => {
         
       <Text style={{color: "white", fontSize: 22, marginLeft:16 }}>Cadastro de novo motorista</Text>
     </View>
-    <Text>driver</Text>
+    <Text>drive</Text>
  </>
     
 )
